@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutsDemo</string>
+    <string name="firstButton">First Button</string>
+    <string name="secondButton">Second Button</string>
+    <string name="thirdButton">Third Button</string>
+    <string name="welcomeString">Welcome To LearnVern</string>
+    <string name="fourthButton">Fourth Button</string>
+    <string name="fifthButton">Fifth Button</string>
+</resources>
